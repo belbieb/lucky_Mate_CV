@@ -1,0 +1,91 @@
+body {
+    background-color: #fcecdd;
+    text-align: center;
+  }
+ /*p{font-weight: bold}*/
+img{
+  top:50px;
+}
+ul{
+  text-align: center;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 15%;
+}
+.cloveImage{
+  position: relative;
+  top:50px;
+  width: 15%;
+}
+.java{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+.html{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+  float: right;
+
+}
+.react{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+.js{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+.css{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+.python,.sql{
+  width: 11%;
+ margin-bottom: 40px;
+ border-radius: 20%;
+
+}
+
+h1{
+  color: #02475e;
+
+}
+h2{
+  color: #02475e;
+}
+.header1-container{
+  background-color: #e2bcb7;
+  
+}
+.header2-container{
+  background-color: #ead3cb;
+  
+}
+.header3-container{
+  background-color: #926e6f;
+  
+}.header4-container{
+  background-color: #e2bcb7;
+  
+}
+.header5-container{
+  background-color: #ead3cb;
+  
+}
+.header6-container{
+  background-color: #926e6f;
+  
+}
